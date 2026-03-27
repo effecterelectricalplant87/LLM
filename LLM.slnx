@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="LLM_Common/LLM_Common.csproj" />
+  <Project Path="LLM_CPU/LLM_CPU.csproj" />
+  <Project Path="LLM_GPU/LLM_GPU.csproj" />
+  <Project Path="LLM_App/LLM_App.csproj" />
+  <Project Path="LLM_Documentation/LLM_Documentation.csproj" />
+</Solution>
